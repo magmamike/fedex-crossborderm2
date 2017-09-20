@@ -25,6 +25,6 @@
 	    "psr-4": {
 	      "FedExCrossBorderM2\\": "src"
 	    }
-	},
+	}
 }
 
