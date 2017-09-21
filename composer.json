@@ -1,12 +1,10 @@
 {
     "name": "magmamike/fedex-crossborderm2",
-    "type": "application",
+    "type": "library",
     "description": "",
     "homepage": "https://github.com/magmamike/fedex-crossborderm2",
-    "version": "1.0.1",
-	"license": [
-	    "proprietary"
-	],
+    "version": "1.0.2",
+	"license": "proprietary",
     "authors": [
         {
             "name": "Miguel",
@@ -20,7 +18,7 @@
 	    "psr-4": {
 	      "FedExCrossBorderM2\\": "src"
 	    }
-	},
-	"minimum-stability": "stable"
+	}
+	
 }
 
