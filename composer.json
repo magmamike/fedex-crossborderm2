@@ -17,8 +17,7 @@
         "php": ">=5.4",
 	    "mtdowling/jmespath.php": "~2.2",
 	    "ext-curl": "*",
-	    "ext-json": "*",
-	    "fedexcrossborder/sdk-php":"1.0"
+	    "ext-json": "*"
 	},
 	"require-dev":{
 		"phpunit/phpunit": "~4.8",
